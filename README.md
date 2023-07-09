@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Back-end.
+💻 Eu sou uma desenvolvedora Back-end.
 
 🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)
 
