@@ -2,12 +2,13 @@
 
 ### Sobre mim
 
-💻 Eu sou uma desenvolvedora Back-end.
+💻 Eu sou uma desenvolvedora Back-end..
 
-🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)
+📝 Atualmente estudando [Análise e Desenvolvimento de Sistemas EAD pela Unisinos](https://www.unisinos.br/graduacao/analise-e-desenvolvimento-de-sistemas/sao-leopoldo)
 
+🎓 Cerficada do Bootcamp [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)
 
-🔎 Também sou curioso sobre true crime, animais, arte (principalmente música e pintura com aquarela) e leitura!
+🔎 Amo animais, jogar desenho, pintura, música e leitura!
 
 ✒️ Eu gosto de no meu tempo livre passar um tempo com meus pets, com minha família e amigos. Gosto de jogar, assistir filmes/séries/animes e ler.
 
